@@ -8,6 +8,17 @@ description: Hometree is a UK home services and residential energy company offer
   and green home upgrades such as heat pumps and solar panels. Operating as an insurance
   distributor and installer across mainland England, Scotland and Wales, Hometree is
   backed by Anthemis, DN Capital, Barclays, BlackRock, 2150 and Puma Growth Partners.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
